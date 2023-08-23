@@ -105,7 +105,6 @@ class Result extends React.Component {
           </Link>
         </div>
       </>
-      
     );
   }
 }
