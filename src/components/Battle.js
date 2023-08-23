@@ -139,7 +139,7 @@ function InstructioforUsers() {
       <div>
         <h2 className="text-center">Instructions</h2>
         <div className="wrapper">
-          <div className="instruction-card">
+          <div className="instruction-card first-card">
             <h2>Enter two Github username</h2>
             <div className="instruction-icon star">
               <i className="fas fa-user-friends users"></i>
