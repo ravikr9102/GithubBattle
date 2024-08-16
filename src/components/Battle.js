@@ -137,7 +137,7 @@ function PlayerOne(props) {
 
 function PlayerTwo(props) {
   if (!props.playerTwo) {
-    return <h3 className="text-center">Loading...</h3>;
+    return <SkeletonPlayerOne />;
   }
   return (
     <div className="player-info">
