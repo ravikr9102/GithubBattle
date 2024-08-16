@@ -1,12 +1,12 @@
-import React from 'react';
-import Popular from './Popular';
+import React from "react";
+import Popular from "./Popular";
 
-function App(){
-    return(
-        <>
-            <Popular />
-        </>
-    )
+function App() {
+  return (
+    <>
+      <Popular />
+    </>
+  );
 }
 
 export default App;
